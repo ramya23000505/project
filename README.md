@@ -154,7 +154,8 @@ plt.imshow(cv2.cvtColor(img,cv2.COLOR_BGR2RGB))
 
 ## Output:
 
-![Screenshot 2024-11-07 222738](https://github.com/user-attachments/assets/678c00a5-e431-481e-8e76-50721cd03fb9)
+![329831683-aafb50f2-282d-4290-91cf-048f21816977](https://github.com/kanishka2305/project/assets/113497357/30ab2175-fb1b-46d2-91cb-1cd28e55abbf)
+
 
 ## Result:
 
