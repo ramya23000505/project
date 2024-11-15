@@ -57,7 +57,7 @@ plt.show()
 ```
 
 ## Output:
-![12 panda](https://github.com/user-attachments/assets/295e766d-95b5-4b0e-ac62-055dfb6b91d3)
+![image](https://github.com/user-attachments/assets/db6d65db-10f9-480e-84ed-b85373afc02f)
 
 ![image](https://github.com/user-attachments/assets/de3ed837-f79b-4f73-b96f-7d7a281c612d)
 
