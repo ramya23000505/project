@@ -61,7 +61,15 @@ detect_handwriting(image_path)
 
 
 # Display the image
-
+        
+    img_rgb = cv2.cvtColor(img_copy, cv2.COLOR_BGR2RGB)
+    plt.imshow(img_rgb)
+    plt.title('Handwriting Detection')
+    plt.axis('off')
+    plt.show()
+    
+image_path = 'l3.jpg'
+detect_handwriting(image_path)
 
 
 
